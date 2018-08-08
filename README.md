@@ -1,2 +1,1 @@
-# Hello World!
-My name is Jarik Marwede and I am currently trying out Github Pages.
+This address is a link to my personal website: https://jarikmarwe.de
